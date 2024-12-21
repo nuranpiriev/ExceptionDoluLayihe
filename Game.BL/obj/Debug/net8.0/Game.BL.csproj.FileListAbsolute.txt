@@ -1,0 +1,16 @@
+C:\Users\MyLPT\source\repos\Game\Game.BL\bin\Debug\net8.0\Game.BL.deps.json
+C:\Users\MyLPT\source\repos\Game\Game.BL\bin\Debug\net8.0\Game.BL.dll
+C:\Users\MyLPT\source\repos\Game\Game.BL\bin\Debug\net8.0\Game.BL.pdb
+C:\Users\MyLPT\source\repos\Game\Game.BL\bin\Debug\net8.0\Game.DAL.dll
+C:\Users\MyLPT\source\repos\Game\Game.BL\bin\Debug\net8.0\Game.DAL.pdb
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.csproj.AssemblyReference.cache
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.AssemblyInfoInputs.cache
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.AssemblyInfo.cs
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.csproj.CoreCompileInputs.cache
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.sourcelink.json
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.csproj.Up2Date
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.dll
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\refint\Game.BL.dll
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\Game.BL.pdb
+C:\Users\MyLPT\source\repos\Game\Game.BL\obj\Debug\net8.0\ref\Game.BL.dll
